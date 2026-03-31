@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "私は大学を辞めた、友達のせいで",
+  "base_artist": "BLUEGOATS",
+  "createdAt": "2026-03-31T03:42:25.296446Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "私は大学を辞めた、友達のせいで",
+      "artist": "BLUEGOATS",
+      "has_synced": false,
+      "path": "select/pl_01_私は大学を辞めた、友達のせいで_BLUEGOATS.txt"
+    }
+  ]
+}
